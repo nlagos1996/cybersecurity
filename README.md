@@ -1,12 +1,8 @@
 # Cybersecurity Information
 
-__Testing Bold__
 
+[__Cisco/Networking__](./cisco.md)
 
-1. Item1 
-1. Item2
-1. Item3
-    1. Item3a
-    1. Item3b
-    
-[LinkTest](https://google.com)
+[__Linux__](./linux.md)
+
+[__Windows__](./windows.md)
